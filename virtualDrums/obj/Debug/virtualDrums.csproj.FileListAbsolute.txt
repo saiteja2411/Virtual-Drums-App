@@ -1,0 +1,14 @@
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\App.g.i.cs
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\MainPage.g.i.cs
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\Page1.g.i.cs
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\virtualDrums.g.resources
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\Bin\Debug\ApplicationIcon.png
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\Bin\Debug\Background.png
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\Bin\Debug\virtualDrums.dll
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\Bin\Debug\virtualDrums.pdb
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\Bin\Debug\AppManifest.xaml
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\Bin\Debug\virtualDrums.xap
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\virtualDrums.dll
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\virtualDrums.pdb
+C:\Users\s.saiteja\Documents\Visual Studio 2010\Projects\virtualDrums\virtualDrums\obj\Debug\XapCacheFile.xml
